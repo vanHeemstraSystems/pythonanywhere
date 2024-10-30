@@ -1,17 +1,17 @@
-pythonirgendwo
+pythonanywhere
 
 # Pythonüberall
 
 > Ein Webhost für Python-Webanwendungen
 
--   [Glossar](./GLOSSARY.md)
+-   [Glossary](./GLOSSARY.md)
 -   [Referenzen](./REFERENCES.md)
 
-**Executive Summary**
+**Zusammenfassung**
 
 [PythonAnywhere](https://www.pythonanywhere.com/user/wvanheemstra/account/)ist ein Webhost, auf dem wir unsere Python-Webanwendungen ausführen.
 
-## 100 - Introduction
+## 100 - Einführung
 
 Sehen[README.md](./100/README.md)
 
