@@ -9,7 +9,7 @@ pythonanywhere
 
 **ملخص تنفيذي**
 
-[بايثون في أي مكان](https://www.pythonanywhere.com)هو مضيف ويب حيث نقوم بتشغيل تطبيقات الويب Python الخاصة بنا والمستندة إلى[نحن](https://www.pythonanywhere.com/user/wvanheemstra/account/)و[الاتحاد الأوروبي](<>), with separated networks.
+[بايثون في أي مكان](https://www.pythonanywhere.com)هو مضيف ويب حيث نقوم بتشغيل تطبيقات الويب Python الخاصة بنا والمستندة إلى[نحن](https://www.pythonanywhere.com/user/wvanheemstra/account/)و[الاتحاد الأوروبي](https://eu.pythonanywhere.com/user/willemvanheemstra/account/)، مع شبكات منفصلة.
 
 ## 100- مقدمة
 
