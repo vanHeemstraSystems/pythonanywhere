@@ -2,14 +2,14 @@ python waar dan ook
 
 # Python overal
 
-> Een webhost voor Python-webapps
+> A web host for Python web apps
 
 -   [Glossarium](./GLOSSARY.md)
 -   [Referenties](./REFERENCES.md)
 
 **Samenvatting**
 
-[PythonOveral](https://www.pythonanywhere.com/user/wvanheemstra/account/)is een webhost waar we onze Python-webapps uitvoeren.
+[PythonOveral](https://www.pythonanywhere.com)is een webhost waar we onze Python-webapps uitvoeren in de[ONS](https://www.pythonanywhere.com/user/wvanheemstra/account/)en de[EU](https://eu.pythonanywhere.com/user/willemvanheemstra/account/), met gescheiden netwerken.
 
 ## 100 - Inleiding
 
