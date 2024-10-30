@@ -1,21 +1,21 @@
-儲存庫名稱
+任何地方的Python
 
-# 儲存庫名稱
+# 隨處Python
 
-> 斯拉格萊恩
->
-> -   [詞彙表](./GLOSSARY.md)
-> -   [參考](./REFERENCES.md)
+> Python Web 應用程式的 Web 主機
+
+-   [詞彙表](./GLOSSARY.md)
+-   [參考](./REFERENCES.md)
 
 **執行摘要**
 
-文字
+[Python無所不在](https://www.pythonanywhere.com/user/wvanheemstra/account/)是我們運行 Python Web 應用程式的 Web 主機。
 
 ## 100 - 簡介
 
 看[README.md](./100/README.md)
 
-## 200 - 要求
+## 200 - Requirements
 
 看[README.md](./200/README.md)
 
