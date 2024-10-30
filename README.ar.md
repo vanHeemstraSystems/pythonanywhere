@@ -11,7 +11,7 @@ pythonanywhere
 
 [بايثون في أي مكان](https://www.pythonanywhere.com/user/wvanheemstra/account/)هو مضيف ويب حيث نقوم بتشغيل تطبيقات الويب Python الخاصة بنا.
 
-## 100 - Introduction
+## 100- مقدمة
 
 يرى[README.md](./100/README.md)
 
