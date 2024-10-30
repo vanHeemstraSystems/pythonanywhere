@@ -9,7 +9,7 @@
 
 **执行摘要**
 
-[Python无处不在](https://www.pythonanywhere.com/user/wvanheemstra/account/)是我们运行 Python Web 应用程序的 Web 主机。
+[PythonAnywhere](https://www.pythonanywhere.com)是一个网络主机，我们在其中运行基于以下内容的 Python Web 应用程序[我们](https://www.pythonanywhere.com/user/wvanheemstra/account/)和[欧盟](<>)，具有分离的网络。
 
 ## 100 - 简介
 
