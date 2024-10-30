@@ -4,8 +4,8 @@
 
 > Python Web 应用程序的 Web 主机
 
--   [词汇表](./GLOSSARY.md)
--   [References](./REFERENCES.md)
+-   [Glossary](./GLOSSARY.md)
+-   [参考](./REFERENCES.md)
 
 **执行摘要**
 
