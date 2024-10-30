@@ -11,6 +11,8 @@ Python en cualquier lugar
 
 [Python en cualquier lugar](https://www.pythonanywhere.com)es un servidor web donde ejecutamos nuestras aplicaciones web Python basadas en el[A NOSOTROS](https://www.pythonanywhere.com/user/wvanheemstra/account/)y el[UE](https://eu.pythonanywhere.com/user/willemvanheemstra/account/), con redes separadas.
 
+**CONSEJO**: Inicia sesión con la dirección de correo electrónico`wvanheemstra@icloud.com`ya que los nombres de usuario difieren (EE. UU.: wvanheemstra, UE: willemvanheemstra).
+
 ## 100 - Introducción
 
 Ver[README.md](./100/README.md)
