@@ -1,4 +1,4 @@
-pythonn'importe où
+python n'importe où
 
 # Pythonpartout
 
@@ -9,7 +9,7 @@ pythonn'importe où
 
 **Résumé exécutif**
 
-[PythonAnywhere](https://www.pythonanywhere.com)est un hébergeur Web sur lequel nous exécutons nos applications Web Python basées sur[NOUS](https://www.pythonanywhere.com/user/wvanheemstra/account/)et le[EU](<>), avec des réseaux séparés.
+[PythonAnywhere](https://www.pythonanywhere.com)est un hébergeur Web sur lequel nous exécutons nos applications Web Python basées sur[NOUS](https://www.pythonanywhere.com/user/wvanheemstra/account/)et le[EU](https://eu.pythonanywhere.com/user/willemvanheemstra/account/), avec des réseaux séparés.
 
 ## 100 - Introduction
 
