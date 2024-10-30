@@ -1,4 +1,4 @@
-python n'importe où
+pythonn'importe où
 
 # Pythonpartout
 
@@ -11,7 +11,7 @@ python n'importe où
 
 [PythonAnywhere](https://www.pythonanywhere.com/user/wvanheemstra/account/)est un hébergeur Web sur lequel nous exécutons nos applications Web Python.
 
-## 100 - Introduction
+## 100 - Présentation
 
 Voir[README.md](./100/README.md)
 
