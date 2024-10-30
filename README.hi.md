@@ -7,7 +7,7 @@
 > -   [शब्दकोष](./GLOSSARY.md)
 > -   [संदर्भ](./REFERENCES.md)
 
-**कार्यकारी सारांश**
+**Executive Summary**
 
 मूलपाठ
 
@@ -23,6 +23,6 @@
 
 देखना[README.md](./300/README.md)
 
-## 400 - निष्कर्ष
+## 400 - Conclusion
 
 देखना[README.md](./400/README.md)
