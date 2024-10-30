@@ -1,4 +1,4 @@
-python n'importe où
+pythonn'importe où
 
 # Pythonpartout
 
@@ -11,7 +11,9 @@ python n'importe où
 
 [PythonAnywhere](https://www.pythonanywhere.com)est un hébergeur Web sur lequel nous exécutons nos applications Web Python basées sur[NOUS](https://www.pythonanywhere.com/user/wvanheemstra/account/)et le[EU](https://eu.pythonanywhere.com/user/willemvanheemstra/account/), avec des réseaux séparés.
 
-## 100 - Introduction
+**CONSEIL**: Connectez-vous avec l'adresse e-mail`wvanheemstra@icloud.com`car les noms d'utilisateur diffèrent (États-Unis : wvanheemstra, UE : willemvanheemstra).
+
+## 100 - Présentation
 
 Voir[README.md](./100/README.md)
 
