@@ -1,17 +1,17 @@
-اسم المستودع
+pythonanywhere
 
-# اسم المستودع
+# بايثون في أي مكان
 
-> سلوجلاين
->
-> -   [مسرد](./GLOSSARY.md)
-> -   [مراجع](./REFERENCES.md)
+> مضيف ويب لتطبيقات الويب Python
+
+-   [مسرد](./GLOSSARY.md)
+-   [مراجع](./REFERENCES.md)
 
 **ملخص تنفيذي**
 
-نص
+[بايثون في أي مكان](https://www.pythonanywhere.com/user/wvanheemstra/account/)هو مضيف ويب حيث نقوم بتشغيل تطبيقات الويب Python الخاصة بنا.
 
-## 100- مقدمة
+## 100 - Introduction
 
 يرى[README.md](./100/README.md)
 
