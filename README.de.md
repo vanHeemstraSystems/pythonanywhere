@@ -1,15 +1,15 @@
-pythonirgendwo
+pythonanywhere
 
 # Pythonüberall
 
-> Ein Webhost für Python-Webanwendungen
+> A web host for Python web apps
 
 -   [Glossar](./GLOSSARY.md)
 -   [Referenzen](./REFERENCES.md)
 
 **Zusammenfassung**
 
-[PythonAnywhere](https://www.pythonanywhere.com)ist ein Webhost, auf dem wir unsere Python-Webanwendungen basierend auf dem ausführen[UNS](https://www.pythonanywhere.com/user/wvanheemstra/account/)und die[EU](<>), mit getrennten Netzwerken.
+[PythonAnywhere](https://www.pythonanywhere.com)ist ein Webhost, auf dem wir unsere Python-Webanwendungen basierend auf dem ausführen[UNS](https://www.pythonanywhere.com/user/wvanheemstra/account/)und die[EU](https://eu.pythonanywhere.com/user/willemvanheemstra/account/), mit getrennten Netzwerken.
 
 ## 100 - Einführung
 
@@ -25,4 +25,4 @@ Sehen[README.md](./300/README.md)
 
 ## 400 – Fazit
 
-Sehen[README.md](./400/README.md)
+See [README.md](./400/README.md)
