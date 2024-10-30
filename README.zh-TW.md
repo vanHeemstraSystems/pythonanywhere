@@ -2,20 +2,20 @@
 
 # 隨處Python
 
-> A web host for Python web apps
+> Python Web 應用程式的 Web 主機
 
 -   [詞彙表](./GLOSSARY.md)
 -   [參考](./REFERENCES.md)
 
 **執行摘要**
 
-[Python無所不在](https://www.pythonanywhere.com/user/wvanheemstra/account/) is a web host where we run our Python web apps.
+[Python無所不在](https://www.pythonanywhere.com) is a web host where we run our Python web apps based in the [我們](https://www.pythonanywhere.com/user/wvanheemstra/account/)和[歐盟](<>)，具有分離的網路。
 
 ## 100 - 簡介
 
-看[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
-## 200 - 要求
+## 200 - Requirements
 
 看[README.md](./200/README.md)
 
