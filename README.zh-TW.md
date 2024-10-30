@@ -5,11 +5,11 @@
 > Python Web 應用程式的 Web 主機
 
 -   [詞彙表](./GLOSSARY.md)
--   [參考](./REFERENCES.md)
+-   [References](./REFERENCES.md)
 
 **執行摘要**
 
-[Python無所不在](https://www.pythonanywhere.com) is a web host where we run our Python web apps based in the [我們](https://www.pythonanywhere.com/user/wvanheemstra/account/)和[歐盟](<>)，具有分離的網路。
+[Python無所不在](https://www.pythonanywhere.com)是一個網站主機，我們在其中運行基於以下內容的 Python Web 應用程式[我們](https://www.pythonanywhere.com/user/wvanheemstra/account/)和[EU](https://eu.pythonanywhere.com/user/willemvanheemstra/account/)，具有分離的網路。
 
 ## 100 - 簡介
 
