@@ -1,11 +1,11 @@
-python n'importe où
+pythonn'importe où
 
 # Pythonpartout
 
 > Un hébergeur pour les applications Web Python
 
 -   [Glossaire](./GLOSSARY.md)
--   [Références](./REFERENCES.md)
+-   [References](./REFERENCES.md)
 
 **Résumé exécutif**
 
@@ -13,7 +13,7 @@ python n'importe où
 
 **CONSEIL**: Connectez-vous avec l'adresse e-mail`wvanheemstra@icloud.com`car les noms d'utilisateur diffèrent (États-Unis : wvanheemstra, UE : willemvanheemstra).
 
-## 100 - Introduction
+## 100 - Présentation
 
 Voir[README.md](./100/README.md)
 
