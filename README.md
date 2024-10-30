@@ -8,7 +8,7 @@ pythonanywhere
 
 **Executive Summary**
 
-[PythonAnywhere](https://www.pythonanywhere.com/user/wvanheemstra/account/) is a web host where we run our Python web apps.
+[PythonAnywhere](https://www.pythonanywhere.com) is a web host where we run our Python web apps based in the [US](https://www.pythonanywhere.com/user/wvanheemstra/account/) and the [EU](), with separated networks.
 
 ## 100 - Introduction
 
