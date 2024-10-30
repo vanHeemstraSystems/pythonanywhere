@@ -1,4 +1,4 @@
-pythonanywhere
+pythonirgendwo
 
 # Pythonüberall
 
@@ -9,13 +9,13 @@ pythonanywhere
 
 **Zusammenfassung**
 
-[PythonAnywhere](https://www.pythonanywhere.com/user/wvanheemstra/account/)ist ein Webhost, auf dem wir unsere Python-Webanwendungen ausführen.
+[PythonAnywhere](https://www.pythonanywhere.com)ist ein Webhost, auf dem wir unsere Python-Webanwendungen basierend auf dem ausführen[UNS](https://www.pythonanywhere.com/user/wvanheemstra/account/)und die[EU](<>), mit getrennten Netzwerken.
 
 ## 100 - Einführung
 
 Sehen[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 – Anforderungen
 
 Sehen[README.md](./200/README.md)
 
