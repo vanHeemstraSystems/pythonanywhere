@@ -5,7 +5,7 @@
 > Python Web 應用程式的 Web 主機
 
 -   [詞彙表](./GLOSSARY.md)
--   [參考](./REFERENCES.md)
+-   [References](./REFERENCES.md)
 
 **執行摘要**
 
@@ -25,4 +25,4 @@
 
 ## 400 - 結論
 
-看[README.md](./400/README.md)
+See [README.md](./400/README.md)
