@@ -9,7 +9,7 @@ Pythonanywhere
 
 **कार्यकारी सारांश**
 
-[PythonAnywhere](https://www.pythonanywhere.com)एक वेब होस्ट है जहां हम अपने पायथन वेब ऐप्स को चलाते हैं[हम](https://www.pythonanywhere.com/user/wvanheemstra/account/)और यह[यूरोपीय संघ](<>), अलग नेटवर्क के साथ।
+[PythonAnywhere](https://www.pythonanywhere.com)एक वेब होस्ट है जहां हम अपने पायथन वेब ऐप्स को चलाते हैं[हम](https://www.pythonanywhere.com/user/wvanheemstra/account/)और यह[यूरोपीय संघ](https://eu.pythonanywhere.com/user/willemvanheemstra/account/), अलग नेटवर्क के साथ।
 
 ## 100 - परिचय
 
