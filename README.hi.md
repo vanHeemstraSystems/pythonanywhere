@@ -1,15 +1,15 @@
-भंडार-नाम
+Pythonanywhere
 
-# भंडार का नाम
+# पायथॉनएनीवेयर
 
-> स्लगलाइन
->
-> -   [शब्दकोष](./GLOSSARY.md)
-> -   [संदर्भ](./REFERENCES.md)
+> पायथन वेब ऐप्स के लिए एक वेब होस्ट
+
+-   [शब्दकोष](./GLOSSARY.md)
+-   [संदर्भ](./REFERENCES.md)
 
 **कार्यकारी सारांश**
 
-मूलपाठ
+[PythonAnywhere](https://www.pythonanywhere.com/user/wvanheemstra/account/)एक वेब होस्ट है जहां हम अपने पायथन वेब ऐप्स चलाते हैं।
 
 ## 100 - परिचय
 
