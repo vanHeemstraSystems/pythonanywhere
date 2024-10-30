@@ -11,6 +11,8 @@ pythonanywhere
 
 [بايثون في أي مكان](https://www.pythonanywhere.com)هو مضيف ويب حيث نقوم بتشغيل تطبيقات الويب Python الخاصة بنا والمستندة إلى[نحن](https://www.pythonanywhere.com/user/wvanheemstra/account/)و[الاتحاد الأوروبي](https://eu.pythonanywhere.com/user/willemvanheemstra/account/)، مع شبكات منفصلة.
 
+**نصيحة**: قم بتسجيل الدخول باستخدام عنوان البريد الإلكتروني`wvanheemstra@icloud.com`نظرًا لاختلاف أسماء المستخدمين (الولايات المتحدة: wvanheemstra، الاتحاد الأوروبي: willemvanheemstra).
+
 ## 100- مقدمة
 
 يرى[README.md](./100/README.md)
