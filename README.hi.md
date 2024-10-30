@@ -1,6 +1,6 @@
 Pythonanywhere
 
-# Python Anywhere
+# पायथॉनएनीवेयर
 
 > पायथन वेब ऐप्स के लिए एक वेब होस्ट
 
@@ -9,11 +9,11 @@ Pythonanywhere
 
 **कार्यकारी सारांश**
 
-[PythonAnywhere](https://www.pythonanywhere.com/user/wvanheemstra/account/)एक वेब होस्ट है जहां हम अपने पायथन वेब ऐप्स चलाते हैं।
+[PythonAnywhere](https://www.pythonanywhere.com)एक वेब होस्ट है जहां हम अपने पायथन वेब ऐप्स को चलाते हैं[हम](https://www.pythonanywhere.com/user/wvanheemstra/account/)और यह[यूरोपीय संघ](<>), अलग नेटवर्क के साथ।
 
 ## 100 - परिचय
 
-See [README.md](./100/README.md)
+देखना[README.md](./100/README.md)
 
 ## 200 - आवश्यकताएँ
 
