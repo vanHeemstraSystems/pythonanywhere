@@ -11,6 +11,8 @@ Pythonanywhere
 
 [PythonAnywhere](https://www.pythonanywhere.com)एक वेब होस्ट है जहां हम अपने पायथन वेब ऐप्स को चलाते हैं[हम](https://www.pythonanywhere.com/user/wvanheemstra/account/)और यह[यूरोपीय संघ](https://eu.pythonanywhere.com/user/willemvanheemstra/account/), अलग नेटवर्क के साथ।
 
+**बख्शीश**: ईमेल पते से साइन इन करें`wvanheemstra@icloud.com`चूँकि उपयोक्तानाम अलग-अलग हैं (यूएस: वानहीमस्ट्रा, ईयू: विलेमवानहीमस्ट्रा)।
+
 ## 100 - परिचय
 
 देखना[README.md](./100/README.md)
