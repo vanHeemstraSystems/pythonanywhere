@@ -4,8 +4,8 @@ python waar dan ook
 
 > Een webhost voor Python-webapps
 
--   [Glossary](./GLOSSARY.md)
--   [References](./REFERENCES.md)
+-   [Glossarium](./GLOSSARY.md)
+-   [Referenties](./REFERENCES.md)
 
 **Samenvatting**
 
@@ -15,13 +15,13 @@ python waar dan ook
 
 Zien[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - Vereisten
 
 Zien[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 - Onze applicatie bouwen
 
-See [README.md](./300/README.md)
+Zien[README.md](./300/README.md)
 
 ## 400 - Conclusie
 
