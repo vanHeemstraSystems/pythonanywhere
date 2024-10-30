@@ -1,6 +1,6 @@
 pythonanywhere
 
-# بايثون في أي مكان
+# Python Anywhere
 
 > مضيف ويب لتطبيقات الويب Python
 
