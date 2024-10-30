@@ -1,4 +1,4 @@
-pythonn'importe où
+python n'importe où
 
 # Pythonpartout
 
@@ -13,7 +13,7 @@ pythonn'importe où
 
 **CONSEIL**: Connectez-vous avec l'adresse e-mail`wvanheemstra@icloud.com`car les noms d'utilisateur diffèrent (États-Unis : wvanheemstra, UE : willemvanheemstra).
 
-## 100 - Présentation
+## 100 - Introduction
 
 Voir[README.md](./100/README.md)
 
