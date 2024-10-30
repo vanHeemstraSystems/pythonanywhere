@@ -4,7 +4,7 @@ pythonanywhere
 
 > Ein Webhost für Python-Webanwendungen
 
--   [Glossary](./GLOSSARY.md)
+-   [Glossar](./GLOSSARY.md)
 -   [Referenzen](./REFERENCES.md)
 
 **Zusammenfassung**
