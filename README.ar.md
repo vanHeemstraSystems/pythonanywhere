@@ -2,16 +2,16 @@
 
 # اسم المستودع
 
-> Slugline
+> سلوجلاين
 >
-> -   [Glossary](./GLOSSARY.md)
+> -   [مسرد](./GLOSSARY.md)
 > -   [مراجع](./REFERENCES.md)
 
-**Executive Summary**
+**ملخص تنفيذي**
 
 نص
 
-## 100 - Introduction
+## 100- مقدمة
 
 يرى[README.md](./100/README.md)
 
