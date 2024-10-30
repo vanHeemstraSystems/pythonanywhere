@@ -1,13 +1,13 @@
 任何地方的Python
 
-# Python Anywhere
+# 随处Python
 
 > Python Web 应用程序的 Web 主机
 
 -   [词汇表](./GLOSSARY.md)
 -   [参考](./REFERENCES.md)
 
-**Executive Summary**
+**执行摘要**
 
 [Python无处不在](https://www.pythonanywhere.com)是一个网络主机，我们在其中运行基于以下内容的 Python Web 应用程序[我们](https://www.pythonanywhere.com/user/wvanheemstra/account/)和[欧盟](https://eu.pythonanywhere.com/user/willemvanheemstra/account/)，具有分离的网络。
 
