@@ -9,7 +9,7 @@ Python en cualquier lugar
 
 **Resumen ejecutivo**
 
-[Python en cualquier lugar](https://www.pythonanywhere.com/user/wvanheemstra/account/)es un servidor web donde ejecutamos nuestras aplicaciones web Python.
+[Python en cualquier lugar](https://www.pythonanywhere.com)es un servidor web donde ejecutamos nuestras aplicaciones web Python basadas en el[A NOSOTROS](https://www.pythonanywhere.com/user/wvanheemstra/account/)y el[UE](https://eu.pythonanywhere.com/user/willemvanheemstra/account/), con redes separadas.
 
 ## 100 - Introducción
 
