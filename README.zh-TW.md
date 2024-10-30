@@ -1,6 +1,6 @@
 任何地方的Python
 
-# 隨處Python
+# Python Anywhere
 
 > Python Web 應用程式的 Web 主機
 
@@ -17,11 +17,11 @@
 
 看[README.md](./100/README.md)
 
-## 200 - 要求
+## 200 - Requirements
 
 看[README.md](./200/README.md)
 
-## 300 - 建立我們的應用程式
+## 300 - Building Our Application
 
 看[README.md](./300/README.md)
 
